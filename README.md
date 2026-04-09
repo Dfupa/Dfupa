@@ -1,12 +1,12 @@
-<h1 align="center">Hi there, I'm Diego Fuentes Palacios 👋</h1>
+<h1 align="center">Hi there, fellow traveller! 👋</h1>
 
 <p align="center">
-  <em>Bioinformatician at Barcelona · Workflow enthusiast · Container advocate · AI tinkerer</em>
+  <em>Bioinformatician by choice · Workflow enthusiast · Container advocate · AI tinkerer</em>
 </p>
 
 ---
 
-Hello! I'm a Bioinformatician based in Barcelona. I enjoy trying to **simplify and improve reproducibility** by using workflow managers and setting up containers. I also experiment with **AI-based projects**, and sometimes dive into *"vibe coding"* 🎵
+Hello! I'm a Bioinformatician based in Barcelona. I enjoy trying to **simplify and improve reproducibility** by using workflow managers and setting up containers. I also experiment with **AI-based projects**, and sometimes dive into *"vibe coding"*
 
 ---
 
@@ -28,40 +28,17 @@ Hello! I'm a Bioinformatician based in Barcelona. I enjoy trying to **simplify a
 ## 🔬 About Me
 
 <p align="left">
-  <a href="https://orcid.org/YOUR-ORCID-ID" target="_blank">
+  <a href="https://orcid.org/0000-0002-9977-6786" target="_blank">
     <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/>
   </a>
-  <a href="https://scholar.google.com/citations?user=YOUR-SCHOLAR-ID" target="_blank">
+  <a href="https://scholar.google.com/citations?user=9WWxbrYAAAAJ&hl=en" target="_blank">
     <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/>
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE" target="_blank">
+  <a href="https://www.linkedin.com/in/dfupa/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
----
-
-## 📌 Featured Projects
-
-<!-- GitHub will display your pinned repos automatically below your profile README.
-     You can also add manual cards using the github-readme-stats widget: -->
-
-<p align="left">
-  <a href="https://github.com/Dfupa/Genlit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dfupa&repo=Genlit&theme=default&hide_border=true" alt="Genlit"/>
-  </a>
-  <a href="https://github.com/Dfupa/PGcloser_V1.1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dfupa&repo=PGcloser_V1.1&theme=default&hide_border=true" alt="PGcloser_V1.1"/>
-  </a>
-  <a href="https://github.com/Dfupa/MASV">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dfupa&repo=MASV&theme=default&hide_border=true" alt="MASV"/>
-  </a>
-  <a href="https://github.com/Dfupa/PS-L2-AROM">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dfupa&repo=PS-L2-AROM&theme=default&hide_border=true" alt="PS-L2-AROM"/>
-  </a>
-</p>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dfupa&style=flat-square&color=grey" alt="Profile views"/>
