@@ -1,16 +1,68 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Diego Fuentes Palacios 👋</h1>
 
-<!--
-**Dfupa/Dfupa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>Bioinformatician at Barcelona · Workflow enthusiast · Container advocate · AI tinkerer</em>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hello! I'm a Bioinformatician based in Barcelona. I enjoy trying to **simplify and improve reproducibility** by using workflow managers and setting up containers. I also experiment with **AI-based projects**, and sometimes dive into *"vibe coding"* 🎵
+
+---
+
+## 🛠️ Tools & Languages
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/Snakemake-039475?style=for-the-badge&logo=snakemake&logoColor=white" alt="Snakemake"/>
+  <img src="https://img.shields.io/badge/Nextflow-1E9E77?style=for-the-badge&logo=nextflow&logoColor=white" alt="Nextflow"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Singularity-1D3557?style=for-the-badge&logo=sylabs&logoColor=white" alt="Singularity"/>
+</p>
+
+---
+
+## 🔬 About Me
+
+<p align="left">
+  <a href="https://orcid.org/YOUR-ORCID-ID" target="_blank">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/>
+  </a>
+  <a href="https://scholar.google.com/citations?user=YOUR-SCHOLAR-ID" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/>
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
+
+## 📌 Featured Projects
+
+<!-- GitHub will display your pinned repos automatically below your profile README.
+     You can also add manual cards using the github-readme-stats widget: -->
+
+<p align="left">
+  <a href="https://github.com/Dfupa/Genlit">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dfupa&repo=Genlit&theme=default&hide_border=true" alt="Genlit"/>
+  </a>
+  <a href="https://github.com/Dfupa/PGcloser_V1.1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dfupa&repo=PGcloser_V1.1&theme=default&hide_border=true" alt="PGcloser_V1.1"/>
+  </a>
+  <a href="https://github.com/Dfupa/MASV">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dfupa&repo=MASV&theme=default&hide_border=true" alt="MASV"/>
+  </a>
+  <a href="https://github.com/Dfupa/PS-L2-AROM">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dfupa&repo=PS-L2-AROM&theme=default&hide_border=true" alt="PS-L2-AROM"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dfupa&style=flat-square&color=grey" alt="Profile views"/>
+</p>
