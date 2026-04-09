@@ -43,3 +43,14 @@ Hello! I'm Diego, a Bioinformatician by trade based in Barcelona. I enjoy coding
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dfupa&style=flat-square&color=grey" alt="Profile views"/>
 </p>
+
+## 🧬 Pipelines & Software I've directly developed or co-developed
+
+[![Redundans](https://img.shields.io/badge/Redundans-genome%20assembly-FF6B35?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gabaldonlab/redundans)
+[![Genlit](https://img.shields.io/badge/Genlit-literature%20mining-00D4AA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dfupa/Genlit)
+[![meTAline](https://img.shields.io/badge/meTAline-metagenomics-663399?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gabaldonlab/meTAline)
+[![Karyon](https://img.shields.io/badge/Karyon-karyotype%20assembly-2E86AB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gabaldonlab/karyon)
+[![PhylomeDB](https://img.shields.io/badge/PhylomeDB-Phylogenetic%20trees-2E86AB?style=for-the-badge&logo=sqlite&logoColor=white)](https://phylomedb.org/)
+[![MeTaPhORs](https://img.shields.io/badge/MeTaPhORs-Orthologs%20and%20paralogs-3FA796?style=for-the-badge&logo=sqlite&logoColor=white)](https://orthology.phylomedb.org/)
+[![EvolClustDB](https://img.shields.io/badge/EvolClustDB-Gene%20Neighbourhoods-7B5EA7?style=for-the-badge&logo=sqlite&logoColor=white)](https://evolclustdb.org/)
+[![CandidaMine](https://img.shields.io/badge/CandidaMine-Candida%20pathogens-C65D4B?style=for-the-badge&logo=sqlite&logoColor=white)](https://candidamine.org/candidamine/begin.do)
