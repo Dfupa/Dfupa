@@ -40,10 +40,6 @@ Hello! I'm Diego, a Bioinformatician by trade based in Barcelona. I enjoy coding
 </p>
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dfupa&style=flat-square&color=grey" alt="Profile views"/>
-</p>
-
 ## 🧬 Pipelines & Software I've directly developed or co-developed
 
 [![Redundans](https://img.shields.io/badge/Redundans-genome%20assembly-FF6B35?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gabaldonlab/redundans)
@@ -54,3 +50,9 @@ Hello! I'm Diego, a Bioinformatician by trade based in Barcelona. I enjoy coding
 [![MeTaPhORs](https://img.shields.io/badge/MeTaPhORs-Orthologs%20and%20paralogs-3FA796?style=for-the-badge&logo=sqlite&logoColor=white)](https://orthology.phylomedb.org/)
 [![EvolClustDB](https://img.shields.io/badge/EvolClustDB-Gene%20Neighbourhoods-7B5EA7?style=for-the-badge&logo=sqlite&logoColor=white)](https://evolclustdb.org/)
 [![CandidaMine](https://img.shields.io/badge/CandidaMine-Candida%20pathogens-C65D4B?style=for-the-badge&logo=sqlite&logoColor=white)](https://candidamine.org/candidamine/begin.do)
+
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dfupa&style=flat-square&color=grey" alt="Profile views"/>
+</p>
