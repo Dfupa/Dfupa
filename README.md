@@ -1,12 +1,12 @@
 <h1 align="center">Hi there, fellow traveller! 👋</h1>
 
 <p align="center">
-  <em>Bioinformatician by choice · Workflow enthusiast · Container advocate · AI tinkerer</em>
+  <em>Bioinformatician by trade · Workflow enthusiast · Container advocate · AI tinkerer</em>
 </p>
 
 ---
 
-Hello! I'm a Bioinformatician based in Barcelona. I enjoy trying to **simplify and improve reproducibility** by using workflow managers and setting up containers. I also experiment with **AI-based projects**, and sometimes dive into *"vibe coding"*
+Hello! I'm Diego, a Bioinformatician by trade based in Barcelona. I enjoy coding as well as trying to **simplify and improve reproducibility** by using workflow managers and setting up containers. I also experiment with **AI-based projects**, and sometimes dive into *"vibe coding"* projects.
 
 ---
 
